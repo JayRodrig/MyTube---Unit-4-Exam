@@ -1,0 +1,20 @@
+.button-props {
+    padding: 2%;
+}
+
+.searchbar-props {
+    margin-bottom: 5%;
+}
+
+.initialcard-props {
+    background-color: #E0E0E0;
+}
+
+.button-color {
+    background-color: #DC143C;
+    color: #E8E8E8;
+}
+
+.button-color:hover {
+    cursor: pointer;
+}
